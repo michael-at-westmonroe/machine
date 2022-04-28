@@ -1,4 +1,5 @@
 [user]
+    signingkey = AAFA8F3E26BD170FE3745A845B0A0D3EC2676527
     name = Michael Avila
     email = mavila@westmonroe.com
 [core]
