@@ -1,0 +1,2 @@
+DOTFILES_DIRS="$HOME/.machine/dotfiles"
+EXCLUDES="README.md"
