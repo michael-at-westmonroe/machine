@@ -7,7 +7,7 @@ command in Terminal.app, there are prompts for information as it runs and a few 
 be completed after:
 
 ```zsh
-$ curl "https://raw.githubusercontent.com/z2e3r40o/machine/master/install.sh" | zsh
+$ curl "https://raw.githubusercontent.com/michael-at-westmonroe/machine/master/install.sh" | zsh
 ```
 
 Once complete I have the following on my machine:
