@@ -18,3 +18,7 @@ tap "homebrew/cask-versions"
 cask "firefox-developer-edition"
 cask "kitty"
 cask "phoenix" # window manager
+
+cask "zoom"
+cask "slack"
+cask "microsoft-teams"

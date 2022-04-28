@@ -30,6 +30,9 @@ Once complete I have the following on my machine:
     - Kitty (Terminal)
     - Firefox Developer Edition
     - Phoenix (window management)
+    - Zoom
+    - Slack
+    - Microsoft Teams
 6. Dotfiles
 7. Colors
     - [Base16](https://github.com/chriskempson/base16-shell)
