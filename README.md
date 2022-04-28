@@ -40,9 +40,8 @@ Once complete I have the following on my machine:
 The following will need to be completed manually:
 
 1. Set MacOS settings (i.e. tap to click, ctrl to capslock, etc)
-3. Select default base16-shell theme (i.e. `$ base16_tommorrow-night`)
-4. Access Bitwarden
-5. Generate gpg key `gpg --full-generate-key`
-6. Set correct GPG key in `dotfiles/gitconfig` for signing commits
-7. Upload public keys
-8. Add `/usr/local/bin/zsh` to `/etc/shells` and `chsh -s /usr/local/bin/zsh`
+2. Select default base16-shell theme (i.e. `$ base16_tommorrow-night`)
+3. Generate gpg key `gpg --full-generate-key`
+4. Set correct GPG key in `dotfiles/gitconfig` for signing commits
+5. Upload public keys
+6. Add `/usr/local/bin/zsh` to `/etc/shells` and `chsh -s /usr/local/bin/zsh`
