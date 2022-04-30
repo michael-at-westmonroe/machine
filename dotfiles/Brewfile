@@ -22,3 +22,4 @@ cask "phoenix" # window manager
 cask "zoom"
 cask "slack"
 cask "microsoft-teams"
+cask "google-chrome"
