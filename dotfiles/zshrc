@@ -67,3 +67,8 @@ autoload -U bashcompinit && bashcompinit
 # FZF
 #
 [ -f "$HOME/.fzf.zsh" ] && source $HOME/.fzf.zsh
+
+#
+# asdf
+#
+. /opt/homebrew/opt/asdf/libexec/asdf.sh
